@@ -1,16 +1,9 @@
-# @zainxmd/baileys
+# BLUE/baileys
 
-**ZainXMD Baileys** — WhatsApp Multi-Device library (Baileys fork)
+**BLUE Baileys** — WhatsApp Multi-Device library (Baileys fork)
 
-## Fixes vs outlaw1 / lordmega Baileys
 
-| Problem in outlaw1 | Fixed here |
-|---|---|
-| Video Play button hidden | Restored normal **Play** button |
-| "View Channel" on bot videos | Removed |
-| Channel auto-follow via media branding | Removed |
-
-## Features kept
+## Features 
 
 - `sock.rvo()` — Reveal View Once
 - Android browser support for view-once media
@@ -20,7 +13,7 @@
 ## Install
 
 ```bash
-npm install github:ZainXMD/baileys
+npm install github: blue-baileys/blue-baileys
 ```
 
 Or alias as official name in your bot `package.json`:
@@ -28,7 +21,7 @@ Or alias as official name in your bot `package.json`:
 ```json
 {
   "dependencies": {
-    "@whiskeysockets/baileys": "github:ZainXMD/baileys"
+    "@whiskeysockets/baileys": "github: blue-baileys/blue-baileys"
   }
 }
 ```
@@ -41,7 +34,7 @@ import makeWASocket from '@whiskeysockets/baileys'
 
 - Base: [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
 - Upstream fork features: [LORDMEGA-MD/baileys](https://github.com/LORDMEGA-MD/baileys) / `@outlaw1/baileys`
-- Modification (View Channel / branding removal): **ZainXMD**
+- Modification (View Channel / branding removal): **MR ADMIN BLUE 𓃵**
 
 ## License
 
